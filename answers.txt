@@ -9,3 +9,7 @@ Answer: [Genetics, GWAS are test to compare genomes with healty and diseased peo
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: [Merg keeps history Rebasing does not]
+
+Q4: What are you looking forward to this semester?
+
+Answer: [Sleeping in on weekends]
