@@ -1,3 +1,11 @@
+Q1: Why might we consider using Git?
+
+Answer: [Edit different versions from anywhere]
+
 Q2: What field could data science be applied to? Give an Example.
 
-Answer: [Genetics, GWAS are test to compare genomes with healty and diseased people to find disease causing sequences. ]
+Answer: [Genetics, GWAS are test to compare genomes with healty and diseased people to find disease causing sequences.]
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: [Merg keeps history Rebasing does not]
