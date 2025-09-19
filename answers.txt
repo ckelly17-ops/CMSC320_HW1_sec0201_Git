@@ -1,3 +1,9 @@
+
 Q1: Why might we consider using Git?
 
 Answer: [You can make different versions of you project easily and acsess from anywhere]
+=======
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: [Genetics, GWAS are test to compare genomes with healty and diseased people to find disease causing sequences. 
+
